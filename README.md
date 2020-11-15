@@ -1,6 +1,8 @@
 ## Django Instagram :camera: :heart:
 
-This is an app like Instagram made with Django
+This is an app like Instagram made with Django.
+
+Status: In process
 
 ## Requirements
 - Python > 3.5. Use of VirtualEnv is recommended.
